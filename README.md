@@ -1,6 +1,6 @@
-### Hello there! 👋🏼 soy Andrés. 
+# Hello there! 👋🏼 soy Andrés. 
 
-#  A menudo juego con microcontroladores y redes neuronales
+###  A menudo juego con microcontroladores y redes neuronales
 
 Suelo trabajar con: 
 
