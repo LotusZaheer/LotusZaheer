@@ -1,4 +1,23 @@
-### Hi there 👋
+### Hello there! 👋🏼 soy Andrés. 
+
+#  A menudo juego con microcontroladores y redes neuronales
+
+Suelo trabajar con: 
+
+* Python
+* C/C++
+* R  
+* Matlab
+* PHP
+* JavaScript //En proceso
+
+![Zaheer's GitHub stats](https://github-readme-stats.vercel.app/api?username=LotusZaheer&hide=contribs,prs&theme=buefy&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LotusZaheer&layout=compact&theme=buefy)](https://github.com/LotusZaheer/github-readme-stats)
+
+
+## Mis redes: 
+* Twitter: https://twitter.com/LotusZaheer
+* Instagram: https://instagram.com/LotusZaheer
+* Linkedin: https://www.linkedin.com/in/lotuszaheer/
 
 <!--
 **LotusZaheer/LotusZaheer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
