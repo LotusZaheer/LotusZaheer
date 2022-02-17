@@ -11,7 +11,8 @@ Suelo trabajar con:
 * PHP
 * JavaScript //En proceso
 
-![Zaheer's GitHub stats](https://github-readme-stats.vercel.app/api?username=LotusZaheer&hide=contribs,prs&theme=buefy&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LotusZaheer&layout=compact&theme=buefy)](https://github.com/LotusZaheer/github-readme-stats)
+![LotusZaheer's GitHub stats](https://github-readme-stats.vercel.app/api?username=LotusZaheer&hide=contribs,prs&theme=buefy&show_icons=true) 
+![![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LotusZaheer&layout=compact&theme=buefy)](https://github.com/LotusZaheer/github-readme-stats)
 
 
 ## Mis redes: 
