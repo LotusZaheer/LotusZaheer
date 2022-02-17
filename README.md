@@ -12,8 +12,7 @@ Suelo trabajar con:
 * JavaScript //En proceso
 
 ![LotusZaheer's GitHub stats](https://github-readme-stats.vercel.app/api?username=LotusZaheer&hide=contribs,prs&theme=buefy&show_icons=true) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LotusZaheer&layout=compact&theme=buefy)(https://github.com/LotusZaheer/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LotusZaheer&layout=compact&theme=buefy)
 
 ## Mis redes: 
 * Twitter: https://twitter.com/LotusZaheer
