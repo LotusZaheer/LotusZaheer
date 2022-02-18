@@ -14,7 +14,7 @@ Suelo trabajar con:
 ![LotusZaheer's GitHub stats](https://github-readme-stats.vercel.app/api?username=LotusZaheer&show_icons=true&theme=gotham) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LotusZaheer&layout=compact&show_icons=true&theme=gotham)
 
-  <img align="right" alt="PNG" src="https://raw.githubusercontent.com/LotusZaheer/LotusZaheer/master/Dialogo.png." width="320" height="320" />
+  <img align="right" alt="PNG" src="https://raw.githubusercontent.com/LotusZaheer/LotusZaheer/main/Dialogo.png" width="320" height="320" />
 
 Cualquier duda o sugerencia estoy totalmente abierto al dialogo
 
