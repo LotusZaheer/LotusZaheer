@@ -16,7 +16,7 @@ Suelo trabajar con:
 
   <img align="right" alt="PNG" src="https://raw.githubusercontent.com/LotusZaheer/LotusZaheer/main/Dialogo.png" width="320" height="320" />
 
-### Cualquier duda o sugerencia estoy totalmente abierto al dialogo
+### Cualquier duda o sugerencia estoy totalmente abierto a usar el diálogo
 
 ### Mis redes: 
 * Twitter: https://twitter.com/LotusZaheer
