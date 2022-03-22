@@ -12,6 +12,7 @@ Suelo trabajar con:
 * JavaScript
 * TypeScript
 * Angular //En proceso
+* GeneXus //En proceso
 
 ![LotusZaheer's GitHub stats](https://github-readme-stats.vercel.app/api?username=LotusZaheer&show_icons=true&theme=gotham) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LotusZaheer&layout=compact&show_icons=true&theme=gotham)
