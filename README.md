@@ -2,11 +2,7 @@
 
 ### A menudo juego con microcontroladores y redes neuronales
 
-<br>
-
 Suelo trabajar con:
-
-<br>
 
 - <img  align="left"  alt="PNG"  src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png"  width="32"/>Python
 
@@ -24,11 +20,7 @@ Suelo trabajar con:
 
 - <img  align="left"  alt="PNG"  src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png"  width="32"/>TypeScript
 
-<br>
-
 Aprendiendo :
-
-<br>
 
 - <img  align="left"  alt="PNG"  src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png"  width="32"/>Angular //En proceso
 
@@ -36,6 +28,7 @@ Aprendiendo :
 
 - <img  align="left"  alt="PNG"  src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png"  width="32"/>Flutter //En proceso
 
+<br>
 <br>
 
 ![LotusZaheer's GitHub stats](https://github-readme-stats.vercel.app/api?username=LotusZaheer&show_icons=true&theme=gotham)
