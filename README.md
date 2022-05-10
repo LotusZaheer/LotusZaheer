@@ -28,6 +28,9 @@ Aprendiendo :
 
 - <img  align="left"  alt="PNG"  src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png"  width="32"/>Flutter //En proceso
 
+- <img  align="left"  alt="PNG"  src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_graphql_icon_130564.png"  width="32"/>GraphQL //En proceso
+
+
 <br>
 <br>
 
