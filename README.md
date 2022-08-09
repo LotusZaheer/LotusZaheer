@@ -22,9 +22,9 @@ Suelo trabajar con:
 
 - <img  align="left"  alt="PNG"  src="https://genexus.es/wp-content/uploads/2015/03/icono-gx.png"  width="32"/>GeneXus
 
-Aprendiendo :
+- <img  align="left"  alt="PNG"  src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png"  width="32"/>Angular
 
-- <img  align="left"  alt="PNG"  src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png"  width="32"/>Angular //En proceso
+Aprendiendo :
 
 - <img  align="left"  alt="PNG"  src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png"  width="32"/>Flutter //En proceso
 
