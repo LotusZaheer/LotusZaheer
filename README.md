@@ -30,6 +30,9 @@ Aprendiendo :
 
 - <img  align="left"  alt="PNG"  src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_graphql_icon_130564.png"  width="32"/>GraphQL //En proceso
 
+- <img  align="left"  alt="PNG"  src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" width="32"/>React //En proceso
+
+- <img  align="left"  alt="PNG"  src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vue_icon_130078.png" width="32"/>Vue //En proceso
 
 <br>
 <br>
