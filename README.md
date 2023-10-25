@@ -20,8 +20,6 @@ Suelo trabajar con:
 
 - <img  align="left"  alt="PNG"  src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png"  width="32"/>TypeScript
 
-- <img  align="left"  alt="PNG"  src="https://genexus.es/wp-content/uploads/2015/03/icono-gx.png"  width="32"/>GeneXus
-
 - <img  align="left"  alt="PNG"  src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png"  width="32"/>Angular
 
 Aprendiendo :
