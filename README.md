@@ -4,7 +4,9 @@
 
 Suelo trabajar con:
 
-- <img  align="left"  alt="PNG"  src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png"  width="32"/>Python
+- <img  align="left"  alt="PNG"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png"  width="32"/>Angular
+
+- <img  align="left"  alt="PNG"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"  width="32"/>Python
 
 - <img  align="left"  alt="PNG"  src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png"  width="32"/>C
 
@@ -20,7 +22,6 @@ Suelo trabajar con:
 
 - <img  align="left"  alt="PNG"  src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png"  width="32"/>TypeScript
 
-- <img  align="left"  alt="PNG"  src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png"  width="32"/>Angular
 
 Aprendiendo :
 
@@ -39,14 +40,7 @@ Aprendiendo :
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LotusZaheer&layout=compact&show_icons=true&theme=gotham)
 
-<img  align="right"  alt="PNG"  src="https://raw.githubusercontent.com/LotusZaheer/LotusZaheer/main/Dialogo.png"  width="320"  height="320" />
-
-### Cualquier duda o sugerencia estoy totalmente abierto a usar el diálogo
 
 ### Mis redes:
 
-- Twitter: https://twitter.com/LotusZaheer
-
-- Instagram: https://instagram.com/LotusZaheer
-
-- Linkedin: https://www.linkedin.com/in/lotuszaheer/
+- [Linkedin: andresuribeg](https://www.linkedin.com/in/andresuribeg/)
