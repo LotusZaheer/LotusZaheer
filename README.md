@@ -17,11 +17,20 @@ Ingeniero de Sistemas con experiencia en análisis de datos geoespacial y de red
 
 ## 💼 Experiencia  
 ### 🏢 OrusXpert SAS | **Desarrollador de Software** (Jul 2022 – Actualidad)  
-- Creación de **componentes reutilizables en Angular** para mejorar la eficiencia del manejo de datos.  
-- Implementación de algoritmos de **clustering** optimizados con **C++ y Python**.  
-- Desarrollo de **mapas interactivos** con **Folium** y personalización de marcadores dinámicos.  
-- Procesamiento eficiente de datos con **geopandas y NumPy** para análisis de datos geoespaciales y agrícolas.  
 
+- Diseñé e implementé algoritmos de clustering en C y Python, mejorando significativamente el rendimiento en el análisis de datos geoespaciales a gran escala.
+
+- Construí el frontend de la plataforma usando Angular, desarrollando componentes reutilizables y mejorando las estructuras de datos para una gestión eficiente.
+
+- Desarrollé mapas interactivos con Folium y las APIs de Google Maps, permitiendo la visualización en tiempo real de clústeres, rutas y marcadores dinámicos según la entrada del usuario y los cálculos del backend.
+
+- Optimizé los pipelines de procesamiento de datos con pandas y NumPy, gestionando y transformando grandes conjuntos de datos geoespaciales con alta eficiencia.
+
+- Desarrollé scripts personalizados de gestión de datos en C, integrados con procesos backend para soportar un flujo de datos optimizado.
+
+- Integré Pyomo y OR-Tools para resolver problemas de ruteo y asignación, aprovechando la optimización matemática para mejorar decisiones operativas.
+
+- Colaboré entre los sistemas backend y frontend para asegurar una interacción fluida entre la interfaz de usuario y los algoritmos de optimización.
 
 ## 📖 Educación  
 🎓 **Universidad Industrial de Santander** – Ingeniería de Sistemas (2017 – 2022)  
