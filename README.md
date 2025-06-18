@@ -4,7 +4,7 @@
 📍 Bucaramanga, Santander  
 📧 andresfelipeuribe11@gmail.com  
 📞 +57 301 656 1380  
-🔗 [LinkedIn](https://www.linkedin.com/in/andresuribeg/) | [GitHub](https://github.com/LotusZaheer)  
+🔗 [LinkedIn](https://www.linkedin.com/in/andresuribeg/) | [portfolio](https://lotuszaheer.github.io/)  
 
 ## 🌟 Sobre mí  
 Ingeniero de Sistemas con experiencia en análisis de datos geoespacial y de redes urbanas para el desarrollo de soluciones logisticas. Especializado en procesamiento de datos, personalización de APIs (como Google Maps) y desarrollo web. Apasionado por la optimización de procesos y la creación de soluciones eficientes en entornos de datos.  
