@@ -10,8 +10,8 @@
 Ingeniero de Sistemas con experiencia en análisis de datos geoespacial y de redes urbanas para el desarrollo de soluciones logisticas. Especializado en procesamiento de datos, personalización de APIs (como Google Maps) y desarrollo web. Apasionado por la optimización de procesos y la creación de soluciones eficientes en entornos de datos.  
 
 ## 🛠️ Habilidades Técnicas  
-- **Lenguajes:** C++, Python, JavaScript, TypeScript, SQL  
-- **Frameworks y Tecnologías:** Angular, pandas, geopandas, folium, osmnx
+- **Lenguajes:** C++, Python, JavaScript, TypeScript, SQL, Java
+- **Frameworks y Tecnologías:** Angular, Spring Boot, pandas, geopandas, folium, osmnx
 - **IoT y Protocolos:** MQTT, CoAP, AMQP, Raspberry Pi  
 - **Otros:** Git, optimización de datos, mapas interactivos, algoritmos de clustering 
 
